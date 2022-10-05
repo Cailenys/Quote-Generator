@@ -8,13 +8,13 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Testing it out](#Testing-it-out)
+- [Testing it out](#testing-it-out)
 - [References](#references)
 - [Author Info](#author-info)
 
 ---
 
-📝 Description
+## Description 📝
 
 This beautifully designed quote generator demonstrates the use of Fetch, Async/Await,  DOM manipulation and Quote API using JavaScript.  The end users will not only be able to request to the server a new quote with each click, but also they will be able to share on Twitter the perfect quote that inspires their day!
 
@@ -31,7 +31,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 
 ---
 
-🚀 Testing it out!🤓
+## Testing it out!🤓
 
 1. Clone this repository:https://github.com/Cailenys/quote-generator.git
 2. Open the main folder with Visual Studio or the code editor of your preference.
@@ -50,7 +50,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 
 ---
 
-📫 Author Info
+## Author Info 📫 
 
 ### Cailenys Leslie
 
