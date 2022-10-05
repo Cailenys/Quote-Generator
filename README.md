@@ -1,11 +1,11 @@
-#Quote Generator
+# Quote Generator
 ![Project Image](https://cailenysleslie.com/wp-content/uploads/2022/10/Quote-project-image.jpg)
 
 > 💁‍♀️Feel inspired every day!
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [Testing it out](#Testing-it-out)
@@ -14,7 +14,7 @@
 
 ---
 
-📝 ## Description
+📝 Description
 
 This beautifully designed quote generator demonstrates the use of Fetch, Async/Await,  DOM manipulation and Quote API using JavaScript.  The end users will not only be able to request to the server a new quote with each click, but also they will be able to share on Twitter the perfect quote that inspires their day!
 
@@ -27,11 +27,11 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 - Fetch API
 
 
-[Back To The Top](#Quote Generator)
+[Back To The Top](#Quote-Generator)
 
 ---
 
-🚀 ## Testing it out!🤓
+🚀 Testing it out!🤓
 
 1. Clone this repository:https://github.com/Cailenys/quote-generator.git
 2. Open the main folder with Visual Studio or the code editor of your preference.
@@ -40,7 +40,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 
 ![Demo](https://cailenysleslie.com/wp-content/uploads/2022/10/Quote-generator-gif.gif)
 
-📖 ## References
+📖 References
 
 - API: [Link](https://jacintodesign.github.io/quotes-api/data/quotes.json)
 
@@ -50,7 +50,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 
 ---
 
-📫 ## Author Info
+📫 Author Info
 
 ### Cailenys Leslie
 
@@ -58,7 +58,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 
 - [Website](https://cailenysleslie.com/)
 
-[Back To The Top](#Quote Generator)
+[Back To The Top](#Quote-Generator)
 
 
 
