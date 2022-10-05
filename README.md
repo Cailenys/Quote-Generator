@@ -10,7 +10,7 @@
 - [Description](#description)
 - [Testing it out](#testing-it-out)
 - [References](#references)
-- [Author Info](#author-info)
+- [Author info](#author-info)
 
 ---
 
@@ -40,7 +40,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 
 ![Demo](https://cailenysleslie.com/wp-content/uploads/2022/10/Quote-generator-gif.gif)
 
-📖 References
+## References 📖
 
 - API: [Link](https://jacintodesign.github.io/quotes-api/data/quotes.json)
 
@@ -50,7 +50,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 
 ---
 
-## Author Info 📫 
+## Author info 📫 
 
 ### Cailenys Leslie
 
