@@ -1,5 +1,5 @@
 #Quote Generator
-![Project Image](https://trello.com/1/cards/633c432cd400ad00dfd55ddb/attachments/633c43525673c200fb22f42c/download/Quote-n1.jpg)
+![Project Image](https://cailenysleslie.com/wp-content/uploads/2022/10/Quote-project-image.jpg)
 
 > 💁‍♀️Feel inspired every day!🫶
 
@@ -38,7 +38,7 @@ This beautifully designed quote generator demonstrates the use of Fetch, Async/A
 3. Run the server
 4. Enjoy!
 
-![Demo](https://trello.com/1/cards/633c432cd400ad00dfd55ddb/attachments/633dc654e2e559059e70c64b/download/Quote-generator-gif.gif)
+![Demo](https://cailenysleslie.com/wp-content/uploads/2022/10/Quote-generator-gif.gif)
 
 📖 ## References
 
