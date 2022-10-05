@@ -1,7 +1,7 @@
 #Quote Generator
 ![Project Image](https://cailenysleslie.com/wp-content/uploads/2022/10/Quote-project-image.jpg)
 
-> 💁‍♀️Feel inspired every day!🫶
+> 💁‍♀️Feel inspired every day!
 
 ---
 
